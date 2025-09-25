@@ -1,2 +1,2 @@
 # FEPlayground
-Fire Emblem Tactical Copy Playground Project
+A copy of Fire Emblem as a playground project for turn based game.
